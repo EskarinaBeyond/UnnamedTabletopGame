@@ -1,0 +1,21 @@
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}Introduction}{3}% 
+\contentsline {section}{\numberline {1.1}What even is this?!}{3}% 
+\contentsline {chapter}{\numberline {2}How To Play}{4}% 
+\contentsline {section}{\numberline {2.1}The Groundwork}{4}% 
+\contentsline {section}{\numberline {2.2}The Anatomy of a Unit}{6}% 
+\contentsline {section}{\numberline {2.3}Selecting a Unit and taking action}{7}% 
+\contentsline {subsection}{\numberline {2.3.1}Choosing a Unit}{7}% 
+\contentsline {subsection}{\numberline {2.3.2}Actions}{7}% 
+\contentsline {chapter}{\numberline {3}The World Of Freedoom}{9}% 
+\contentsline {section}{\numberline {3.1}The general state of things}{9}% 
+\contentsline {section}{\numberline {3.2}Who are \textit {you}?}{9}% 
+\contentsline {subsection}{\numberline {3.2.1}The Terrastrocraty - I am Earths Victor.}{9}% 
+\contentsline {subsection}{\numberline {3.2.2}The Amazing\textsuperscript {TM} Corporation - I am here to interest you in our Products\textsuperscript {TM}.}{9}% 
+\contentsline {subsection}{\numberline {3.2.3}The Liberation Fleet - I am ascended through merit.}{9}% 
+\contentsline {subsection}{\numberline {3.2.4}The Veritas Communes - I'm looking for truth and inspiration. }{9}% 
+\contentsline {subsection}{\numberline {3.2.5}\textit {I} - \textit {I} Am Creations Archivist.}{9}% 
+\contentsline {subsection}{\numberline {3.2.6}??? - I do not yet know.}{9}% 
+\contentsline {chapter}{\numberline {4}Warriors of the Future}{10}% 
+\contentsline {chapter}{\numberline {5}Scenarios}{11}% 
+\contentsline {chapter}{\numberline {6}How To participate}{12}% 
