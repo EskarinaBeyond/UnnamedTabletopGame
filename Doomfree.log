@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.8.13)  14 AUG 2019 18:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.8.13)  15 AUG 2019 20:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -570,44 +570,49 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [11
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 210--216
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--216
+Underfull \hbox (badness 10000) in paragraph at lines 214--217
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--216
+Underfull \hbox (badness 10000) in paragraph at lines 214--217
+
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 219--221
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--216
+Underfull \hbox (badness 10000) in paragraph at lines 219--221
 
  []
 
-[12] [13]
+[13] [14]
 Chapter 4.
-[14
-
-]
-Chapter 5.
 [15
 
 ]
-Chapter 6.
+Chapter 5.
 [16
+
+]
+Chapter 6.
+[17
 
 ] (./Doomfree.aux) ) 
 Here is how much of TeX's memory you used:
- 6795 strings out of 492609
- 102801 string characters out of 6128078
+ 6793 strings out of 492609
+ 102785 string characters out of 6128078
  245126 words of memory out of 5000000
  10479 multiletter control sequences out of 15000+600000
- 15344 words of font info for 95 fonts, out of 8000000 for 9000
+ 15295 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,11n,39p,2562b,460s stack positions out of 5000i,500n,10000p,200000b,80000s
 <d:/Programme/texlive/2019/texmf-dist/fonts/type1/public/am
@@ -621,10 +626,10 @@ c/amsfonts/cm/cmr8.pfb><d:/Programme/texlive/2019/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmsl12.pfb><d:/Programme/texlive/2019/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmsy10.pfb><d:/Programme/texlive/2019/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmti12.pfb>
-Output written on Doomfree.pdf (16 pages, 147454 bytes).
+Output written on Doomfree.pdf (17 pages, 149207 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
- 67 compressed objects within 1 object stream
+ 99 PDF objects out of 1000 (max. 8388607)
+ 69 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  17409 words of extra memory for PDF output out of 20736 (max. 10000000)
 
