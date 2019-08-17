@@ -9,13 +9,14 @@
 \contentsline {subsection}{\numberline {2.3.2}Actions}{8}% 
 \contentsline {chapter}{\numberline {3}The World Of Freedoom}{11}% 
 \contentsline {section}{\numberline {3.1}The general state of things}{11}% 
-\contentsline {section}{\numberline {3.2}Who are \textit {you}?}{12}% 
-\contentsline {subsection}{\numberline {3.2.1}The Terrastrocraty - I am Earths Victor.}{12}% 
-\contentsline {subsection}{\numberline {3.2.2}The Amazing\textsuperscript {TM} Corporation - I am here to interest you in our Products\textsuperscript {TM}.}{14}% 
-\contentsline {subsection}{\numberline {3.2.3}The Liberation Fleet - I am ascended through merit.}{14}% 
-\contentsline {subsection}{\numberline {3.2.4}The Veritas Communes - I'm looking for truth and inspiration. }{14}% 
-\contentsline {subsection}{\numberline {3.2.5}\textit {I} - \textit {I} Am Creations Archivist.}{14}% 
-\contentsline {subsection}{\numberline {3.2.6}??? - I do not yet know.}{14}% 
-\contentsline {chapter}{\numberline {4}Warriors of the Future}{15}% 
-\contentsline {chapter}{\numberline {5}Scenarios}{16}% 
-\contentsline {chapter}{\numberline {6}How To participate}{17}% 
+\contentsline {section}{\numberline {3.2}Who are \textit {you}?}{13}% 
+\contentsline {subsection}{\numberline {3.2.1}The Terrastrocraty - I am Earths Victor.}{13}% 
+\contentsline {subsection}{\numberline {3.2.2}The Amazing\textsuperscript {TM} Corporation - I am here to interest you in our Products\textsuperscript {TM}.}{15}% 
+\contentsline {subsection}{\numberline {3.2.3}The Liberation Fleet - I am ascended through merit.}{15}% 
+\contentsline {subsection}{\numberline {3.2.4}The Veritas Communes - I'm looking for truth and inspiration. }{15}% 
+\contentsline {subsection}{\numberline {3.2.5}\textit {I} - \textit {I} Am Creations Archivist.}{15}% 
+\contentsline {subsection}{\numberline {3.2.6}The Hominid Alliance - A long lost legacy}{15}% 
+\contentsline {subsection}{\numberline {3.2.7}??? - I do not yet know.}{15}% 
+\contentsline {chapter}{\numberline {4}Warriors of the Future}{16}% 
+\contentsline {chapter}{\numberline {5}Scenarios}{17}% 
+\contentsline {chapter}{\numberline {6}How To participate}{18}% 
