@@ -12,7 +12,7 @@
 \contentsline {section}{\numberline {3.2}Who are \textit {you}?}{12}% 
 \contentsline {subsection}{\numberline {3.2.1}The Terrastrocraty - I am Earths Victor.}{12}% 
 \contentsline {subsection}{\numberline {3.2.2}The Amazing\textsuperscript {TM} Corporation - I am here to interest you in our Products\textsuperscript {TM}.}{17}% 
-\contentsline {subsection}{\numberline {3.2.3}The Liberation Fleet - I am ascended through merit.}{17}% 
+\contentsline {subsection}{\numberline {3.2.3}The Navis Libera - I am ascended through merit.}{17}% 
 \contentsline {subsection}{\numberline {3.2.4}The Veritas Communes - I'm looking for truth and inspiration. }{17}% 
 \contentsline {subsection}{\numberline {3.2.5}\textit {I} - \textit {I} Am Creations Archivist.}{17}% 
 \contentsline {subsection}{\numberline {3.2.6}The Hominid Alliance - A long lost legacy}{17}% 
