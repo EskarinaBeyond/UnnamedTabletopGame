@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.8.13)  20 AUG 2019 18:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.9.7)  7 SEP 2019 20:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -590,27 +590,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 221--228
 
  []
 
-[13] [14] [15] [16] [17]
+[13] [14] [15] [16]
+Underfull \hbox (badness 10000) in paragraph at lines 238--241
+
+ []
+
+[17] [18] [19]
 Chapter 4.
-[18
+[20
 
 ]
 Chapter 5.
-[19
+[21
 
 ]
 Chapter 6.
-[20
+[22
 
 ] (./UntitledTabletopGame.aux) ) 
 Here is how much of TeX's memory you used:
  6790 strings out of 492609
- 102864 string characters out of 6128078
+ 102864 string characters out of 6128079
  252972 words of memory out of 5000000
  10473 multiletter control sequences out of 15000+600000
  15055 words of font info for 95 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,11n,39p,3705b,440s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,11n,39p,4047b,440s stack positions out of 5000i,500n,10000p,200000b,80000s
 <d:/Programme/texlive/2019/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmbx10.pfb><d:/Programme/texlive/2019/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmbx12.pfb><d:/Programme/texlive/2019/texmf-dist/fonts/t
@@ -621,10 +626,10 @@ s/type1/public/amsfonts/cm/cmr7.pfb><d:/Programme/texlive/2019/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmr8.pfb><d:/Programme/texlive/2019/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmsy10.pfb><d:/Programme/texlive/2019/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmti12.pfb>
-Output written on UntitledTabletopGame.pdf (21 pages, 148664 bytes).
+Output written on UntitledTabletopGame.pdf (23 pages, 153853 bytes).
 PDF statistics:
- 108 PDF objects out of 1000 (max. 8388607)
- 75 compressed objects within 1 object stream
+ 114 PDF objects out of 1000 (max. 8388607)
+ 79 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  15361 words of extra memory for PDF output out of 17280 (max. 10000000)
 
