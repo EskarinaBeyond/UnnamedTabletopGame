@@ -13,10 +13,10 @@
 \contentsline {subsection}{\numberline {3.2.1}The Terrastrocraty - I am Earths Victor.}{12}% 
 \contentsline {subsection}{\numberline {3.2.2}The Amazing\textsuperscript {TM} Corporation - I am here to interest you in our Products\textsuperscript {TM}.}{17}% 
 \contentsline {subsection}{\numberline {3.2.3}The Navis Libera - I am ascended through merit.}{17}% 
-\contentsline {subsection}{\numberline {3.2.4}The Veritas Communes - I'm looking for truth and inspiration. }{19}% 
-\contentsline {subsection}{\numberline {3.2.5}\textit {I} - \textit {I} Am Creations Archivist.}{19}% 
-\contentsline {subsection}{\numberline {3.2.6}The Galactic Alliance - I am Progress}{19}% 
-\contentsline {subsection}{\numberline {3.2.7}??? - I do not yet know.}{19}% 
-\contentsline {chapter}{\numberline {4}Warriors of the Future}{20}% 
-\contentsline {chapter}{\numberline {5}Scenarios}{21}% 
-\contentsline {chapter}{\numberline {6}How To participate}{22}% 
+\contentsline {subsection}{\numberline {3.2.4}The Veritas Communes - I am the Future. }{20}% 
+\contentsline {subsection}{\numberline {3.2.5}\textit {I} - \textit {I} Am Creations Archivist.}{20}% 
+\contentsline {subsection}{\numberline {3.2.6}The Galactic Alliance - I am Unity}{20}% 
+\contentsline {subsection}{\numberline {3.2.7}??? - I do not yet know.}{20}% 
+\contentsline {chapter}{\numberline {4}Warriors of the Future}{21}% 
+\contentsline {chapter}{\numberline {5}Scenarios}{22}% 
+\contentsline {chapter}{\numberline {6}How To participate}{23}% 
